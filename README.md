@@ -1,4 +1,5 @@
 # PythonGrabber
+
 Logs Roblox Cookie, Discord Token, IP, Chrome Passwords, Minecraft, CC, WIFI PASSWORDS, BTC/ETH/LTC
 
 # Disable Real Time Protection
@@ -18,4 +19,5 @@ If you have any questions DM ME Kanye#1323 On Discord as this is my main..
 
 
 # COMPILER
+![pefptypypypyp](https://user-images.githubusercontent.com/108092319/175386736-0d8f0a42-ec40-4ee6-8a88-df2509c8e92f.jpg)
 
