@@ -14,8 +14,8 @@ If you have any questions DM ME Kanye#1323 On Discord as this is my main..
 
 
 # CRYPTO TOOLS MONERO MINER/CLIPPER
-❮img src="https://cdn.discordapp.com/attachments/989262432033730644/989617716874866728/Pygrabbb.jpg" ❯
+![Pygrabbb](https://user-images.githubusercontent.com/108092319/175386533-34693d1e-79f4-4b31-959f-5e92c1def0d3.jpg)
 
 
 # COMPILER
-❮img src="https://cdn.discordapp.com/attachments/989262432033730644/989617716631601182/pefptypypypyp.jpg" ❯
+
