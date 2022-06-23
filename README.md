@@ -1,9 +1,7 @@
 # PythonGrabber
-
 Logs Roblox Cookie, Discord Token, IP, Chrome Passwords, Minecraft, CC, WIFI PASSWORDS, BTC/ETH/LTC
 
-# Disable Real Time Protection ![Windows_Defender_logo svg](https://user-images.githubusercontent.com/108092319/175386966-32cbcc1b-655d-43d5-aba1-d73f6babaa4d.png)
-
+# Disable Real Time Protection 
 Windows Defender Flags This As A 'Virus', This is a false detection, make sure you disable Real Time Protection.
 
 # Made By Kanye#1323,
